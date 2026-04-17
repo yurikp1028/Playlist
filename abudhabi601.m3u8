@@ -2,31 +2,31 @@
 #EXTINF:0 tvg-rec="7",Россия-24
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/rossija24/video.m3u8
-#EXTINF:0 tvg-rec="3",CNN HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/pack_logos/7b87e191b6c5592984bfa95fc72e5334.png" tvg-rec="3",CNN HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cnn-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",FOX News HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png" tvg-rec="3",FOX News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/fox-news-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",ABC News HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/257d6702319127a17481aaa906e45edc.png" tvg-rec="3",ABC News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/abc-news-us-hd/video.m3u8
 #EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/a1da7e81042aae2b995ed7957f0531f8.png" tvg-rec="3",NBC News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/nbc-news-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",MSNBC HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/235f918e8be40df4e831e544426627dc.png" tvg-rec="3",MSNBC HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/msnbc-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",CBS News HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/8387b67ce97b9828d4c830bfb9e516cf.png" tvg-rec="3",CBS News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cbs-news-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",Newsmax HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/0e1cde5bd45a03b7756792e081ac4a9c.png" tvg-rec="3",Newsmax HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/newsmax-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",Newsnation HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/e71ebc8e070bf6168a65fcccf0bc50f8.png" tvg-rec="3",Newsnation HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/newsnation-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",CNBC HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/61dc1fbed0b78984a4b5f2d906b28705.png" tvg-rec="3",CNBC HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cnbc-us-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",Bloomberg TV HD
@@ -35,7 +35,7 @@ http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/bloomberg-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",BBC World News
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/bbc-world-news/video.m3u8
-#EXTINF:0 tvg-rec="3",Al Jazeera HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png" tvg-rec="3",Al Jazeera HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/al-jazeera-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",Sky News UK
