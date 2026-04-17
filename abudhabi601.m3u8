@@ -1,4 +1,4 @@
-#EXTM3U dv2q7kr5
+#EXTM3U
 #EXTINF:0 tvg-rec="7",Россия-24
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/rossija24/video.m3u8
