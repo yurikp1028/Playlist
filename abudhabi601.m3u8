@@ -11,7 +11,7 @@ http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/fox-news-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",ABC News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/abc-news-us-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",NBC News HD
+#EXTINF:0 tvg-logo="https://af-play.com/storage/images/channel_logos/a1da7e81042aae2b995ed7957f0531f8.png" tvg-rec="3",NBC News HD
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/qvk476wh/nbc-news-us-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",MSNBC HD
