@@ -65,9 +65,9 @@ http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/5kanal/video.m3u8
 #EXTINF:0 tvg-rec="7",Москва 24
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/moskva-24/video.m3u8
-#EXTINF:0 tvg-rec="3",CNBC
-#EXTGRP:All
-http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/cnbc-us-hd/video.m3u8
 #EXTINF:0 tvg-rec="3",CNN International Europe
 #EXTGRP:All
 http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/cnn/video.m3u8
+#EXTINF:0 tvg-rec="3",CNBC
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/cnbc-us-hd/video.m3u8
