@@ -1,0 +1,73 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-rec="7",Россия-24
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/rossija24/video.m3u8
+#EXTINF:0 tvg-rec="3",CNN HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cnn-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",FOX News HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/fox-news-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",ABC News HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/abc-news-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",NBC News HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/nbc-news-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",MSNBC HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/msnbc-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",CBS News HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cbs-news-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",Newsmax HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/newsmax-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",Newsnation HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/newsnation-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",CNBC HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/qvk476wh/cnbc-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",Bloomberg TV HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/bloomberg-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",BBC World News
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/bbc-world-news/video.m3u8
+#EXTINF:0 tvg-rec="3",Al Jazeera HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/al-jazeera-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",Sky News UK
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/sky-news-uk/video.m3u8
+#EXTINF:0 tvg-rec="0",Euronews
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/evronews/video.m3u8
+#EXTINF:0 tvg-rec="3",RT News
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/russia-today/video.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/pervyj/video.m3u8
+#EXTINF:0 tvg-rec="7",РБК-ТВ
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/rbk/video.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/rossija/video.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/ntv/video.m3u8
+#EXTINF:0 tvg-rec="7",Пятый канал
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/5kanal/video.m3u8
+#EXTINF:0 tvg-rec="7",Москва 24
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/moskva-24/video.m3u8
+#EXTINF:0 tvg-rec="3",CNBC
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/cnbc-us-hd/video.m3u8
+#EXTINF:0 tvg-rec="3",CNN International Europe
+#EXTGRP:All
+http://tchaikovsky.af-stream.com:8080/s/dv2q7kr5/cnn/video.m3u8
